@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Mr Piyush Bhai</h1>
+    <h1>Mr Piyush Singh</h1>
     <p>Test is an user.</p>
     <hr>
 
