@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1> Daily watching TV is good for me </h1>
+	  <h1> Watching netflix or amazon </h1>
     <p>Test is an user.</p>
     <hr>
 
